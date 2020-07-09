@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6eadc63-9c42-4d42-a1c6-8f8318a80ed3" name="Default Changelist" comment="" />
+    <list default="true" id="d6eadc63-9c42-4d42-a1c6-8f8318a80ed3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceList.html" beforeDir="false" afterPath="$PROJECT_DIR$/priceList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCeramicCoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCeramicCoat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCompound.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCompound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceInteriorClean.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceInteriorClean.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceSyntheticProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceSyntheticProtect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWash.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWheelProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWheelProtect.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y4nOQDl0lz3tSaVxUbkvr73wS4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -34,18 +51,6 @@
       <recent name="$PROJECT_DIR$/img/buttons" />
       <recent name="$PROJECT_DIR$/img/backgrounds" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,11 +91,13 @@
       <workItem from="1582996900624" duration="651000" />
       <workItem from="1583320368855" duration="257000" />
       <workItem from="1584789317941" duration="2000" />
+      <workItem from="1594286054715" duration="825000" />
+      <workItem from="1594289443446" duration="3923000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
