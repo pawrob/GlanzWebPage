@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6eadc63-9c42-4d42-a1c6-8f8318a80ed3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceList.html" beforeDir="false" afterPath="$PROJECT_DIR$/priceList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceCeramicCoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCeramicCoat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceCompound.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCompound.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceInteriorClean.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceInteriorClean.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceSyntheticProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceSyntheticProtect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceWash.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWash.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceWheelProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWheelProtect.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +84,10 @@
       <workItem from="1583320368855" duration="257000" />
       <workItem from="1584789317941" duration="2000" />
       <workItem from="1594286054715" duration="825000" />
-      <workItem from="1594289443446" duration="3923000" />
+      <workItem from="1594289443446" duration="5535000" />
+      <workItem from="1594298337903" duration="67000" />
+      <workItem from="1594312771839" duration="522000" />
+      <workItem from="1594368612784" duration="847000" />
     </task>
     <servers />
   </component>
@@ -103,13 +98,9 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582731616670">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594294038915">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1582731616670" />
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1582803266724">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582803266724" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594294038915" />
   </component>
 </project>

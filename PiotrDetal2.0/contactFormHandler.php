@@ -3,13 +3,17 @@
     $visitor_email = $_POST['email'];
     $message = $_POST['message'];
 
-    $email_from = 'pawrob@icloud.com';
-    $email_subject = "Mail - PiotrDetal.pl";
-    $email_body = "User name: $name.\n".
-                    "User email: $visitor_email.\n".
-                        "User message: $message.\n";
+    $email_from = 'formularzKontaktowy@glanz.pl';
+    $email_subject = "Glanz.pl formularz, pisze $name";
+    $email_body = "Imie: $name\n".
+                    // "Adres nadawcy: $visitor_email.\n".
+                        "$name zadal(a) pytanie: \n\n $message.\n";
 
-    $to = "mrpawrob@gmail.com";
+    $to = "pawel@glanz.pl";
+    
+    $headers  = 'MIME-Version: 1.0' . "\r\n";
+    $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
+    
     $headers = "From: $email_from \r\n";
     $headers .= "Reply to: $visitor_email \r\n";
 
