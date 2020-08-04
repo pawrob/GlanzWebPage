@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d6eadc63-9c42-4d42-a1c6-8f8318a80ed3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceList.html" beforeDir="false" afterPath="$PROJECT_DIR$/priceList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCeramicCoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCeramicCoat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCompound.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCompound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceInteriorClean.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceInteriorClean.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceSyntheticProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceSyntheticProtect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWash.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWheelProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWheelProtect.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +55,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -88,6 +116,11 @@
       <workItem from="1594298337903" duration="67000" />
       <workItem from="1594312771839" duration="522000" />
       <workItem from="1594368612784" duration="847000" />
+      <workItem from="1594389662118" duration="2680000" />
+      <workItem from="1594412262756" duration="602000" />
+      <workItem from="1594478434137" duration="3567000" />
+      <workItem from="1594482842731" duration="2990000" />
+      <workItem from="1594556072287" duration="330000" />
     </task>
     <servers />
   </component>
@@ -96,6 +129,18 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594294038915">

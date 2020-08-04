@@ -13,10 +13,12 @@ html {
 .phone_header
 {
 	background-color: darkred;
-	color: black;
-	font-size: 12px;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
 	padding: 3px;
 	text-align: center;
+	text-shadow: 0px -2px 12px firebrick;
 }
 .navbar
 {
@@ -28,6 +30,16 @@ html {
 }
 .uslugi:focus {
 	outline: none;
+}
+.dropdown-menu{
+	background-color: #222222;
+
+}
+.dropdown-divider{
+	border-color: grey;
+}
+.dropdown-item{
+	color: grey;
 }
 .dropdown-menu>.active{
 	 background-color: darkred;
@@ -71,8 +83,11 @@ h1 {
 	top: 50%;
 	transform: translateY(-50%);
 	bottom: initial;
+	text-shadow: 0 0 20px #222222;
 }
-
+.carousel-caption>h1{
+	font-size: 120px;
+}
 .section{
 	width: 100%;
 	height: auto;
@@ -280,7 +295,9 @@ h1 {
 	{
 		font-size: 25px;
 	}
-
+	.carousel-caption>h1{
+		font-size: 100px;
+	}
 
 	.text_box{
 		color: white;
@@ -328,6 +345,9 @@ h1 {
 	h2
 	{
 		font-size: 30px;
+	}
+	.carousel-caption>h1{
+		font-size: 80px;
 	}
 	.baner
 	{
@@ -398,7 +418,9 @@ h1 {
 	{
 		font-size: 22px;
 	}
-
+	.carousel-caption>h1{
+		font-size: 60px;
+	}
 	.baner
 	{
 		padding-top: 15%;
@@ -499,6 +521,10 @@ h1 {
 	h2
 	{
 		font-size: 15px;
+	}
+
+	.carousel-caption>h1{
+		font-size: 40px;
 	}
 	.sect1
 	{
@@ -640,11 +666,20 @@ h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
+.g-recaptcha{
+	/*background-color: blue;*/
+	text-align: center;
+
+	/*margin-left: auto;*/
+	/*margin-right: auto;*/
+
+}
 
 .contact-form{
 	background-color:  rgb(17, 17, 17);
 	padding: 60px;
 	border-radius: 5px;
+	display: inline-block;
 }
 .contact-form>span{
 	display: block;
