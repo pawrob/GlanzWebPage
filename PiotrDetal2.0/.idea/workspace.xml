@@ -20,18 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6eadc63-9c42-4d42-a1c6-8f8318a80ed3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/servicePaintCorrection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/serviceSeatsWash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/serviceSsr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/serviceYachtDetailing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/buttons/322275955057211.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/h.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/i.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceList.html" beforeDir="false" afterPath="$PROJECT_DIR$/priceList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceCeramicCoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCeramicCoat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceCompound.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceCompound.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceInteriorClean.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceInteriorClean.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceSyntheticProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceSyntheticProtect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceWash.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWash.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceWheelProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceWheelProtect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCeramicCoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceCeramicCoat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceCompound.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceCompound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceInteriorClean.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceInteriorClean.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceSyntheticProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceSyntheticProtect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWash.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceWash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceWheelProtect.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services/serviceWheelProtect.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,19 +69,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Services" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Seasenthessis\Documents\GitHub\piotrDetal\PiotrDetal2.0\Services" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Seasenthessis\Documents\GitHub\piotrDetal\PiotrDetal2.0\Services" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/php" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/img/buttons" />
-      <recent name="$PROJECT_DIR$/img/backgrounds" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -121,11 +137,17 @@
       <workItem from="1594478434137" duration="3567000" />
       <workItem from="1594482842731" duration="2990000" />
       <workItem from="1594556072287" duration="330000" />
+      <workItem from="1600075666056" duration="12000" />
+      <workItem from="1600075707327" duration="29000" />
+      <workItem from="1600075818073" duration="613000" />
+      <workItem from="1600371819855" duration="774000" />
+      <workItem from="1600423950602" duration="4623000" />
+      <workItem from="1600431739456" duration="1261000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
@@ -143,6 +165,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600075714329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600075714329" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594294038915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
